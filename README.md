@@ -1,2 +1,2 @@
-# backend_account_ms
-Example of a MS using SpringBoot and MongoDB
+# bank-account-ms
+This is an example of a MicroServices backend using both SpringBoot and MongoDB.
